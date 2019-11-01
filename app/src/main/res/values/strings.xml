@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="juventus_fc">JUVENTUS FC</string>
+    <string name="list_btn">List</string>
+    <string name="custom_btn">Custom</string>
+    <string name="recycler_btn">Recycler</string>
+    <string name="nama_pemain">Nama Pemain</string>
+    <string name="posisi">Posisi</string>
+    <string name="number">10</string>
+</resources>
